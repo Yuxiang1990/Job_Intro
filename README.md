@@ -2,23 +2,37 @@
 - 模态：CT
 - 病灶检测、分割
 - 器官、脉管重建
+- 术前规划
+- 语音交互 “小技助手”唤醒
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8e834afd-48f7-4a97-901c-1524b8209274" />
-
+---
 # liver app recon & surg plan
 - 模态：多模态（CT、MR）
 - 病灶检测、分割
 - 器官、脉管重建
 - 序列拆分、识别、配准
+- 术前规划 （各种术式切除）
+- 语音交互 “小技助手”唤醒
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6b989895-ae01-4479-b8f2-acf1b3fb7a75" />
-
+---
 # Dynamic Reg
 - 模拟术前与术中实时配准， 10～20 FPS
+
+![LearnedNeuralDeformedPyrami3](https://github.com/user-attachments/assets/8f2dcaf8-e32f-4984-90f3-be8915bb4c2e)
 ![术中呼吸配准_观测脉管变化](https://github.com/user-attachments/assets/a892c5be-5547-4b87-a62f-f698b59fdb83)
 
+- 交互变形配准
 
+![demo](https://github.com/user-attachments/assets/01696987-7f15-4f81-adb4-c644a882e57a)
+
+
+---
 # 术中识别
 - sam2标注 + 术中识别
   
-![merged_1 25](https://github.com/user-attachments/assets/f29148df-b094-4a85-bad9-50d2f703ba32)
+![merged_1 25](https://github.com/user-attachments/assets/af31eba1-b081-4bc3-a390-e36f4451070a)
 
+---
+# Mesh 手势控制
+![control_hand](https://github.com/user-attachments/assets/1a14303b-2894-48ed-96ea-9924a2f86053)
 
