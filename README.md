@@ -5,7 +5,9 @@
 - 术前规划
 - 语音交互 “小技助手”唤醒
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8e834afd-48f7-4a97-901c-1524b8209274" />
+
 ---
+
 # liver app recon & surg plan
 - 模态：多模态（CT、MR）
 - 病灶检测、分割
@@ -14,11 +16,14 @@
 - 术前规划 （各种术式切除）
 - 语音交互 “小技助手”唤醒
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6b989895-ae01-4479-b8f2-acf1b3fb7a75" />
+
 ---
+
 # Dynamic Reg
 - 模拟术前与术中实时配准， 10～20 FPS
-
+- 初始对齐
 ![LearnedNeuralDeformedPyrami3](https://github.com/user-attachments/assets/8f2dcaf8-e32f-4984-90f3-be8915bb4c2e)
+- 模拟术中对齐
 ![术中呼吸配准_观测脉管变化](https://github.com/user-attachments/assets/a892c5be-5547-4b87-a62f-f698b59fdb83)
 
 - 交互变形配准
