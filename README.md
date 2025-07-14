@@ -1,4 +1,5 @@
-# lung app recon & surg plan
+# Intro
+## lung app recon & surg plan
 - 模态：CT
 - 目标检测（病灶）、多类别语义分割
 - 多器官、脉管重建
@@ -8,7 +9,7 @@
 
 ---
 
-# liver app recon & surg plan
+## liver app recon & surg plan
 - 模态：多模态（CT、MR）
 - 目标检测检测、多类别语义分割
 - 多模态多器官、脉管重建
@@ -19,7 +20,7 @@
 
 ---
 
-# Dynamic Reg
+## Dynamic Reg
 - 模拟术前与术中实时配准， 10～20 FPS
 - 初始对齐
 ![LearnedNeuralDeformedPyrami3](https://github.com/user-attachments/assets/8f2dcaf8-e32f-4984-90f3-be8915bb4c2e)
@@ -32,12 +33,12 @@
 
 
 ---
-# 术中识别
+## 术中识别
 - sam2标注 + 术中识别
   
 ![merged_1 25](https://github.com/user-attachments/assets/af31eba1-b081-4bc3-a390-e36f4451070a)
 
 ---
-# Mesh 手势控制
+## Mesh 手势控制
 ![control_hand](https://github.com/user-attachments/assets/1a14303b-2894-48ed-96ea-9924a2f86053)
 
