@@ -1,7 +1,7 @@
 # lung app recon & surg plan
 - 模态：CT
-- 病灶检测、分割
-- 器官、脉管重建
+- 目标检测（病灶）、多类别语义分割
+- 多器官、脉管重建
 - 术前规划
 - 语音交互 “小技助手”唤醒
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8e834afd-48f7-4a97-901c-1524b8209274" />
@@ -10,10 +10,10 @@
 
 # liver app recon & surg plan
 - 模态：多模态（CT、MR）
-- 病灶检测、分割
-- 器官、脉管重建
+- 目标检测检测、多类别语义分割
+- 多模态多器官、脉管重建
 - 序列拆分、识别、配准
-- 术前规划 （各种术式切除）
+- 术前规划 （各种术式切除方案等）
 - 语音交互 “小技助手”唤醒
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6b989895-ae01-4479-b8f2-acf1b3fb7a75" />
 
