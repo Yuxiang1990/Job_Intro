@@ -32,9 +32,13 @@
 ![demo](https://github.com/user-attachments/assets/01696987-7f15-4f81-adb4-c644a882e57a)
 
 
--TAP （-CoTracker3）
+## TAP
+- CoTracker3
+
 ![3dprint_demo_cotracker_realtime](https://github.com/user-attachments/assets/221c0b88-012f-432c-b3af-d40cfc760ddf)
+
 ![56f74f7ad1df4cbaa6718b1b2137867f](https://github.com/user-attachments/assets/7f7137af-7ad2-482b-9d4a-f97f79ddfc83)
+
 
 
 
