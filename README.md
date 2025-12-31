@@ -31,6 +31,9 @@
 
 ![demo](https://github.com/user-attachments/assets/01696987-7f15-4f81-adb4-c644a882e57a)
 
+- 真实术中视频流配准:
+
+![demo](pbd-demo7.gif)
 
 ## TAP
 - CoTracker3
