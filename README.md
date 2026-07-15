@@ -1,24 +1,38 @@
-# Intro
-## lung app recon & surg plan
+# Job Intro
+## 术前地图  lung app recon
 - 模态：CT
 - 目标检测（病灶）、多类别语义分割
 - 多器官、脉管重建
 - 术前规划
 - 语音交互 “小技助手”唤醒
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8e834afd-48f7-4a97-901c-1524b8209274" />
+<img width="2487" height="1243" alt="image" src="https://github.com/user-attachments/assets/f533c307-6fdc-4339-af9f-8faefa874c3d" />
+
 
 ---
 
-## liver app recon & surg plan
+## 术前地图 liver app recon
 - 模态：多模态（CT、MR）
 - 目标检测检测、多类别语义分割
 - 多模态多器官、脉管重建
 - 序列拆分、识别、配准
 - 术前规划 （各种术式切除方案等）
 - 语音交互 “小技助手”唤醒
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6b989895-ae01-4479-b8f2-acf1b3fb7a75" />
+<img width="2408" height="1220" alt="image" src="https://github.com/user-attachments/assets/7627e434-9f5f-48c2-a6e9-09a39b94df46" />
 
 ---
+
+## surg plan 术前规划
+
+- 平面切除
+<img width="450" height="380" alt="image" src="https://github.com/user-attachments/assets/049ff3b9-bdfd-454b-8b11-cc808a4ff4f6" />
+
+- 曲面切除
+<img width="450" height="380" alt="image" src="https://github.com/user-attachments/assets/a18152a2-b52e-4463-a725-1a8d0f843336" />
+
+- 流域切除
+<img width="450" height="380" alt="image" src="https://github.com/user-attachments/assets/f12b1142-1245-4025-ac1b-17153e0787c5" />
+
+
 
 ## Dynamic Reg
 - 模拟术前与术中实时配准， 10～20 FPS
